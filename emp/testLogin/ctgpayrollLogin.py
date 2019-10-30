@@ -1,15 +1,21 @@
 # -*- coding:utf-8 -*-
 import requests,json,time
 import unittest
+#from emp_login import loginmain
 
-class login(unittest.TestCase):
+class Testlogin(unittest.TestCase):
 
     def setUp(self):
+        # 测试前需执行的操作
         print('========================start==========================')
         self.loginUrl = 'https://tautodiscover.ctgpayroll.com/ehr_saas/newMobile/login/login.mobile'
         self.checkUrl = 'https://autodiscover.ctgpayroll.com/ehr_saas/web/attEmpLog/saveAttEmpLog.mobile'
         self.headers = {'Content-Type': 'application/json'}
         self.checkLocationUrl = 'https://autodiscover.ctgpayroll.com/ehr_saas/web/attSetLocation/saveAttSetLocation.mobileHr'
+
+    def tearDown(self):
+        # 测试用例执行完后所需执行的操作
+        print('=========================stop===================================')
 
     def login_token():
         # 用户成功登陆后获取token
@@ -37,7 +43,7 @@ class login(unittest.TestCase):
         r = requests.post(loginUrl,data=json.dumps(json_param),headers=headers)
         return r.json()['result']['data']['emp']['deptId']
 
-    def test_login_token(self):
+    def test_1_login_token(self):
         # 用户成功登陆
         loginUrl = 'https://autodiscover.ctgpayroll.com/ehr_saas/newMobile/login/login.mobile'
         headers = {'Content-Type': 'application/json'}
@@ -50,7 +56,7 @@ class login(unittest.TestCase):
         r = requests.post(loginUrl,data=json.dumps(json_param),headers=headers)
         print(r.json()['msg'])
 
-    def test_loginCheck_01(self):
+    def test_2_loginCheck(self):
         # 用户登录打卡
         json_param = {
             'checkType': 1,
@@ -61,11 +67,13 @@ class login(unittest.TestCase):
             'wifiMac': '',
             'wifiName': ''}
         headers = {'Content-Type':'application/json',
-              'token':login.login_token()}
+              'token':Testlogin.login_token()}
         requests1 = requests.post(self.checkUrl, data=json.dumps(json_param), headers=headers)
-        if requests1.json()['msg'] == '所在部门没有设置打卡地点':
+        if requests1.json()['msg'] ==  '打卡成功':
+                print(3,requests1.json()['msg'])
+        elif requests1.json()['msg'] == '所在部门没有设置打卡地点':
             data1 = {
-                'deptId':login.login_deptId() ,
+                'deptId':Testlogin.login_deptId() ,
                 'actRadius': 200,
                 'locSetName': '接口脚本测试易才集团',
                 'locName': '北京市朝阳区建国路56号天洋运河F1栋',
@@ -76,13 +84,8 @@ class login(unittest.TestCase):
             r.json()['msg'] == '考勤地点设置成功'
             requests2 = requests.post(self.checkUrl, data=json.dumps(json_param), headers=headers)
             print(2, requests2.json()['msg'], requests2.json()['msg'].encode('utf-8'))
-        elif requests1.json()['msg'] ==  '打卡成功':
-                print(3,requests1.json()['msg'])
         else:
             print(4, requests1.json()['msg'])
-
-        print(requests1.text)
-
 
 
 if __name__ == '__main__':

@@ -18,7 +18,7 @@ class login(unittest.TestCase):
         json_param = {
                 'custId': '98666751995904',
                 'deviceId': 'E7F91090-FD98-49D0-9382-D37B1059D013',
-                'mobile': '13522535090',
+                'mobile': '18612533709',
                 'verificationCode': '4321'
             }
         r = requests.post(loginUrl,data=json.dumps(json_param),headers=headers)
@@ -31,7 +31,7 @@ class login(unittest.TestCase):
         json_param = {
                 'custId': '98666751995904',
                 'deviceId': 'E7F91090-FD98-49D0-9382-D37B1059D013',
-                'mobile': '13522535090',
+                'mobile': '18612533709',
                 'verificationCode': '4321'
             }
         r = requests.post(loginUrl,data=json.dumps(json_param),headers=headers)

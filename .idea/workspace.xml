@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aacdce9-4950-4646-93db-1b752f03a5b1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/eHRAppTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emp_login/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emp_login/emp_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/emp_login/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/emp_login/emp_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emp_login/loginmain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/attemplogCheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/attemplogCheck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emp/testLogin/tsetLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp/testLogin/tsetLogin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +19,11 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/untitled$attemplogCheck.coverage" NAME="attemplogCheck Coverage Results" MODIFIED="1571974864673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/untitled$attEmplogStartcheck.coverage" NAME="attEmplogStartcheck Coverage Results" MODIFIED="1558338771024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck.coverage" NAME="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck Coverage Results" MODIFIED="1572418346700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
     <SUITE FILE_PATH="coverage/untitled$HRtest.coverage" NAME="HRtest Coverage Results" MODIFIED="1564048500301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Appium" />
     <SUITE FILE_PATH="coverage/untitled$ctgpayroll_Login.coverage" NAME="ctgpayroll_Login Coverage Results" MODIFIED="1571972519957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/login" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_ctgpayrollLogin_Testlogin.coverage" NAME="Unittests for ctgpayrollLogin.Testlogin Coverage Results" MODIFIED="1572416529697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_ctgpayrollLogin_login.coverage" NAME="Unittests for ctgpayrollLogin.login Coverage Results" MODIFIED="1572415554227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
     <SUITE FILE_PATH="coverage/untitled$attemplog1.coverage" NAME="attemplog1 Coverage Results" MODIFIED="1558337972944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1558342920459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/untitled$eHRAppTest.coverage" NAME="eHRAppTest Coverage Results" MODIFIED="1564049367190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
@@ -33,8 +31,10 @@
     <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1571967624630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
     <SUITE FILE_PATH="coverage/untitled$attEmplog.coverage" NAME="attEmplog Coverage Results" MODIFIED="1558336580433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$attemplogEndcheck.coverage" NAME="attemplogEndcheck Coverage Results" MODIFIED="1558338607327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_in_ctgpayrollLogin_py.coverage" NAME="Unittests in ctgpayrollLogin.py Coverage Results" MODIFIED="1572419102480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
     <SUITE FILE_PATH="coverage/untitled$Unittests_for_emp_login_MyTestSuite_test_login.coverage" NAME="Unittests for emp_login.MyTestSuite.test_login Coverage Results" MODIFIED="1571968999359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp_login" />
     <SUITE FILE_PATH="coverage/untitled$testCheck.coverage" NAME="testCheck Coverage Results" MODIFIED="1558521605357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_ctgpayrollLogin_login_test_loginCheck_01.coverage" NAME="Unittests for ctgpayrollLogin.login.test_loginCheck_01 Coverage Results" MODIFIED="1572414899589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
     <SUITE FILE_PATH="coverage/untitled$tsetLogin.coverage" NAME="tsetLogin Coverage Results" MODIFIED="1571971870529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/login" />
     <SUITE FILE_PATH="coverage/untitled$Unittests_in_emp_login_py.coverage" NAME="Unittests in emp_login.py Coverage Results" MODIFIED="1571968820628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp_login" />
     <SUITE FILE_PATH="coverage/untitled$HRtest__1_.coverage" NAME="HRtest (1) Coverage Results" MODIFIED="1564049232795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/App" />
@@ -42,20 +42,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ctgpayroll_Login.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/login/ctgpayroll_Login.py">
+      <file leaf-file-name="ctgpayrollLogin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="49" column="78" selection-start-line="49" selection-start-column="71" selection-end-line="49" selection-end-column="78" />
+            <state relative-caret-position="175">
+              <caret line="13" column="125" lean-forward="true" selection-start-line="13" selection-start-column="125" selection-end-line="13" selection-end-column="125" />
+              <folding>
+                <element signature="e#23#48#0" expanded="true" />
+                <element signature="e#164#641#0" />
+                <element signature="e#675#774#0" />
+                <element signature="e#807#1337#0" />
+                <element signature="e#1371#1910#0" />
+                <element signature="e#1954#2456#0" />
+                <element signature="e#2499#3870#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tsetLogin.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py">
+      <file leaf-file-name="loginmain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/emp_login/loginmain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="70" column="29" lean-forward="true" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+            <state relative-caret-position="50">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -68,6 +77,14 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\eHr_SaasEmp</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -96,6 +113,9 @@
         <option value="$PROJECT_DIR$/venv/login/tsetLogin.py" />
         <option value="$PROJECT_DIR$/venv/login/ctgpayroll_Login.py" />
         <option value="$PROJECT_DIR$/venv/attemplogCheck.py" />
+        <option value="$PROJECT_DIR$/emp/testLogin/loginmain.py" />
+        <option value="$PROJECT_DIR$/emp_login/loginmain.py" />
+        <option value="$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py" />
       </list>
     </option>
   </component>
@@ -109,10 +129,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
     <option name="width" value="1941" />
-    <option name="height" value="1061" />
+    <option name="height" value="1062" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -125,8 +145,28 @@
         <subPane>
           <expand>
             <path>
-              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eHr_SaasEmp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eHr_SaasEmp" type="462c0819:PsiDirectoryNode" />
+              <item name="emp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eHr_SaasEmp" type="462c0819:PsiDirectoryNode" />
+              <item name="emp" type="462c0819:PsiDirectoryNode" />
+              <item name="testLogin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eHr_SaasEmp" type="462c0819:PsiDirectoryNode" />
+              <item name="emp_login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -136,12 +176,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="C:/untitled" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\eHr_SaasEmp\emp_login" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\untitled\venv\login" />
       <recent name="C:\untitled\venv" />
@@ -159,26 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.attemplogCheck">
-    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in ctgpayrollLogin.py">
     <configuration name="attemplogCheck" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,69 +261,63 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tsetLogin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/login" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/login/tsetLogin.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Unittests for emp_login.MyTestSuite.test_login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for ctgpayrollLogin.Testlogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emp_login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emp/testLogin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;emp_login.MyTestSuite.test_login&quot;" />
+      <option name="_new_target" value="&quot;ctgpayrollLogin.Testlogin&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in emp_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emp_login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emp/testLogin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/emp_login/emp_login.py&quot;" />
+      <option name="_new_target" value="&quot;ctgpayrollLogin.Testlogin.test_2_loginCheck&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in ctgpayrollLogin.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emp/testLogin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
       <item itemvalue="Python.test1" />
-      <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python tests.Unittests for emp_login.MyTestSuite.test_login" />
-      <item itemvalue="Python tests.Unittests in emp_login.py" />
       <item itemvalue="Python.ctgpayroll_Login" />
-      <item itemvalue="Python.tsetLogin" />
       <item itemvalue="Python.attemplogCheck" />
+      <item itemvalue="Python tests.Unittests in ctgpayrollLogin.py" />
+      <item itemvalue="Python tests.Unittests for ctgpayrollLogin.Testlogin" />
+      <item itemvalue="Python tests.Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in ctgpayrollLogin.py" />
+        <item itemvalue="Python tests.Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" />
+        <item itemvalue="Python tests.Unittests for ctgpayrollLogin.Testlogin" />
         <item itemvalue="Python.attemplogCheck" />
         <item itemvalue="Python.ctgpayroll_Login" />
-        <item itemvalue="Python.tsetLogin" />
-        <item itemvalue="Python tests.Unittests for emp_login.MyTestSuite.test_login" />
-        <item itemvalue="Python tests.Unittests in emp_login.py" />
       </list>
     </recent_temporary>
   </component>
@@ -345,20 +364,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_emp_login_MyTestSuite_test_login - 2019.10.25 at 09h 54m 01s.xml">
-      <configuration name="Unittests for emp_login.MyTestSuite.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_ctgpayrollLogin_login - 2019.10.30 at 14h 05m 55s.xml">
+      <configuration name="Unittests for ctgpayrollLogin.login" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_emp_login_MyTestSuite_test_login - 2019.10.25 at 09h 55m 24s.xml">
-      <configuration name="Unittests for emp_login.MyTestSuite.test_login" configurationId="tests" />
+    <history-entry file="Unittests_in_ctgpayrollLogin_py - 2019.10.30 at 14h 09m 02s.xml">
+      <configuration name="Unittests in ctgpayrollLogin.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_emp_login_py - 2019.10.25 at 09h 55m 49s.xml">
-      <configuration name="Unittests in emp_login.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ctgpayrollLogin_py - 2019.10.30 at 14h 16m 36s.xml">
+      <configuration name="Unittests in ctgpayrollLogin.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_emp_login_py - 2019.10.25 at 10h 00m 22s.xml">
-      <configuration name="Unittests in emp_login.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ctgpayrollLogin_py - 2019.10.30 at 14h 17m 24s.xml">
+      <configuration name="Unittests in ctgpayrollLogin.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_emp_login_MyTestSuite_test_login - 2019.10.25 at 10h 03m 21s.xml">
-      <configuration name="Unittests for emp_login.MyTestSuite.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin - 2019.10.30 at 14h 22m 10s.xml">
+      <configuration name="Unittests for ctgpayrollLogin.Testlogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck - 2019.10.30 at 14h 48m 57s.xml">
+      <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck - 2019.10.30 at 14h 49m 34s.xml">
+      <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck - 2019.10.30 at 14h 50m 41s.xml">
+      <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck - 2019.10.30 at 14h 52m 29s.xml">
+      <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ctgpayrollLogin_py - 2019.10.30 at 15h 05m 03s.xml">
+      <configuration name="Unittests in ctgpayrollLogin.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -372,21 +406,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32896653" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5036675" side_tool="true" weight="0.3020258" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932525" weight="0.5395948" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32896653" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633253" weight="0.3020258" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633253" weight="0.8581952" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22819886" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24286878" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865046" weight="0.3314917" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865046" weight="0.46224678" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -397,7 +432,7 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22819886" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24286878" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932525" weight="0.5395948" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,10 +441,10 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32896653" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633253" weight="0.3020258" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49633253" visible="true" weight="0.8581952" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32896653" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865046" visible="true" weight="0.3314917" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865046" weight="0.46224678" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5036675" side_tool="true" weight="0.3020258" />
@@ -469,299 +504,51 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="82" />
+      <option name="time" value="94" />
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="requests1" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/eHRAppTest.py">
+    <entry file="file://$PROJECT_DIR$/emp_login/loginmain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        <state relative-caret-position="50">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/testCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="58" column="31" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="33" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-            <element signature="e#728#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/testCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/eHRAppTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="58" column="31" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="33" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-            <element signature="e#728#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/testCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py" />
+    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py" />
+    <entry file="file://$PROJECT_DIR$/venv/testCheck.py" />
     <entry file="file://$PROJECT_DIR$/venv/App/HRtest.py" />
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1625">
-          <caret line="66" column="53" lean-forward="true" selection-start-line="66" selection-start-column="53" selection-end-line="66" selection-end-column="53" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-            <element signature="e#728#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/testCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-            <element signature="e#728#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/testCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="79" column="46" lean-forward="true" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-            <element signature="e#728#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="47" column="26" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/testCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="79" column="46" lean-forward="true" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-            <element signature="e#728#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/testCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-            <element signature="e#728#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-            <element signature="e#728#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py" />
+    <entry file="file://$PROJECT_DIR$/venv/testCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py" />
+    <entry file="file://$PROJECT_DIR$/venv/testCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py" />
+    <entry file="file://$PROJECT_DIR$/venv/testCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/testCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
     <entry file="file://$PROJECT_DIR$/attEmplogStartcheck.py" />
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/attemplogEndcheck.py" />
     <entry file="file://$PROJECT_DIR$/attEmplogStartcheck.py" />
     <entry file="file://$PROJECT_DIR$/attemplogOutsidecheck.py" />
-    <entry file="file://$PROJECT_DIR$/venv/CTGattemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/repairCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/CTGattemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/repairCheck.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1352562323/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -770,20 +557,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test1.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py" />
     <entry file="file://$PROJECT_DIR$/app/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -795,9 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49">
           <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -808,48 +579,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/testCheck.py">
+    <entry file="file://$PROJECT_DIR$/venv/testCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/emp_login/emp_login.py" />
+    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
+    <entry file="file://$PROJECT_DIR$/venv/login/ctgpayroll_Login.py" />
+    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/suite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        <state relative-caret-position="54">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/teamcity/unittestpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="303" selection-start-line="303" selection-end-line="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="446" column="8" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emp_login/loginmain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="125" lean-forward="true" selection-start-line="13" selection-start-column="125" selection-end-line="13" selection-end-column="125" />
           <folding>
             <element signature="e#23#48#0" expanded="true" />
+            <element signature="e#164#641#0" />
+            <element signature="e#675#774#0" />
+            <element signature="e#807#1337#0" />
+            <element signature="e#1371#1910#0" />
+            <element signature="e#1954#2456#0" />
+            <element signature="e#2499#3870#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/emp_login/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/emp_login/emp_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-            <element signature="e#728#939#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/login/ctgpayroll_Login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="49" column="78" selection-start-line="49" selection-start-column="71" selection-end-line="49" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="70" column="29" lean-forward="true" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
         </state>
       </provider>
     </entry>
