@@ -42,23 +42,756 @@
     <SUITE FILE_PATH="coverage/untitled$repairCheck.coverage" NAME="repairCheck Coverage Results" MODIFIED="1558403273200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="eHr_SaasEmp" />
+    <favorites_list name="eHr_SaasEmp">
+      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna/core.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna/codec.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna/idnadata.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna/intranges.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna/uts46data.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna/package_data.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi/core.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi/cacert.pem" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi/__main__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/cli" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/cli/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/cli/chardetect.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/enums.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/escsm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/jpcntx.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/mbcssm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/jisfreq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/big5freq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/escprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/euckrfreq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/euctwfreq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/big5prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/gb2312freq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/sjisprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/utf8prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/cp949prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/eucjpprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/euckrprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/euctwprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/gb2312prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/hebrewprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/latin1prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/charsetprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/langthaimodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/langgreekmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/langhebrewmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/mbcharsetprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/mbcsgroupprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/sbcharsetprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/sbcsgroupprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/chardistribution.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/langturkishmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/langcyrillicmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/universaldetector.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/charsetgroupprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/codingstatemachine.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/langbulgarianmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet/langhungarianmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/url.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/ssl_.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/wait.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/queue.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/retry.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/request.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/timeout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/response.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/util/connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/socks.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/ntlmpool.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/appengine.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/pyopenssl.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/_securetransport" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/_securetransport/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/_securetransport/bindings.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/_securetransport/low_level.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/securetransport.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/contrib/_appengine_environ.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/packages" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/packages/six.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/packages/backports" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/packages/backports/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/packages/backports/makefile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/packages/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/fields.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/request.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/filepost.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/response.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/poolmanager.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/_collections.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3/connectionpool.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/api.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/auth.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/help.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/certs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/hooks.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/models.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/cookies.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/adapters.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/packages.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/sessions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/structures.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/__version__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/status_codes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests/_internal_utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/common" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/common/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/common/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/ie" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/ie/options.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/ie/service.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/ie/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/ie/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/edge" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/edge/options.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/edge/service.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/edge/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/edge/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/opera" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/opera/options.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/opera/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/opera/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/chrome" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/chrome/options.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/chrome/service.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/chrome/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/chrome/remote_connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/by.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/html5" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/html5/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/html5/application_cache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions/key_input.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions/interaction.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions/key_actions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions/input_device.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions/mouse_button.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions/pointer_input.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions/action_builder.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/actions/pointer_actions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/keys.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/alert.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/proxy.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/service.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/action_chains.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/touch_actions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/common/desired_capabilities.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/mobile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/command.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/switch_to.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/isDisplayed.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/getAttribute.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/file_detector.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/remote/remote_connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/safari" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/safari/service.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/safari/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/safari/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/safari/permissions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/safari/remote_connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/android" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/android/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/android/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/x86" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/x86/x_ignore_nofocus.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/amd64" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/amd64/x_ignore_nofocus.so" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/options.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/service.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver.xpi" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/webelement.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/firefox_binary.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/firefox_profile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/remote_connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/webdriver_prefs.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/firefox/extension_connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support/ui.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support/wait.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support/color.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support/events.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support/select.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support/expected_conditions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support/event_firing_webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/support/abstract_event_listener.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/phantomjs" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/phantomjs/service.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/phantomjs/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/phantomjs/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/webkitgtk" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/webkitgtk/options.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/webkitgtk/service.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/webkitgtk/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/webkitgtk/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/blackberry" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/blackberry/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/blackberry/webdriver.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/webdriver/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/setuptools.pth" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/easy-install.pth" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna-2.8.dist-info" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna-2.8.dist-info/WHEEL" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna-2.8.dist-info/RECORD" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna-2.8.dist-info/METADATA" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna-2.8.dist-info/INSTALLER" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna-2.8.dist-info/LICENSE.rst" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/idna-2.8.dist-info/top_level.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_set.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_file.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/req/req_uninstall.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/git.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/bazaar.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/mercurial.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/vcs/subversion.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/ui.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/build.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/glibc.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/hashes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/appdirs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/logging.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/encoding.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/outdated.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/packaging.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/filesystem.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/deprecation.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/utils/setuptools_build.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/compat" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/compat/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/compat/dictconfig.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/models" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/models/index.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/models/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/six.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/t32.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/t64.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/util.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/w32.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/w64.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/index.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/wheel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/markers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/scripts.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/database.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/locators.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/manifest.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/metadata.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/resources.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/ansi.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/win32.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/winterm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/initialise.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/constants.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/serializer.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/bar.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/counter.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/helpers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/spinner.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/progress/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/api.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/auth.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/certs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/hooks.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/escsm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/jpcntx.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcssm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/jisfreq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/big5freq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/constants.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/escprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euckrfreq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euctwfreq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/big5prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/chardetect.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/gb2312freq.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sjisprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/utf8prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/cp949prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/eucjpprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euckrprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/euctwprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/gb2312prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/hebrewprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/latin1prober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/charsetprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langthaimodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langgreekmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/chardistribution.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/universaldetector.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/codingstatemachine.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/url.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/ssl_.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/retry.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/request.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/timeout.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/response.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/util/connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/socks.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/appengine.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/six.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/fields.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/request.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/filepost.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/response.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connection.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/poolmanager.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/_collections.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/urllib3/connectionpool.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/packages/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/models.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/cacert.pem" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/cookies.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/adapters.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/sessions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/structures.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/requests/status_codes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distro.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/_compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/markers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/__about__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/specifiers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/_structures.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/packaging/requirements.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/appdirs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/retrying.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/cache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/controller.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/ipaddress.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pyparsing.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/re-vendor.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/labels.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/mklabels.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pkg_resources" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/ordereddict.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/hash.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/help.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/list.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/show.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/check.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/wheel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/freeze.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/search.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/download.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/uninstall.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/commands/completion.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/index.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/wheel.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/check.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/freeze.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/operations/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/__main__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/download.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/locations.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/baseparser.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/cmdoptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/exceptions.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/pep425tags.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/basecommand.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/status_codes.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/PKG-INFO" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/not-zip-safe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/requires.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/top_level.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/entry_points.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/pip-9.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet-3.0.4.dist-info" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet-3.0.4.dist-info/WHEEL" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet-3.0.4.dist-info/RECORD" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet-3.0.4.dist-info/METADATA" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet-3.0.4.dist-info/INSTALLER" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet-3.0.4.dist-info/metadata.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet-3.0.4.dist-info/top_level.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/chardet-3.0.4.dist-info/entry_points.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3-1.24.1.dist-info" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3-1.24.1.dist-info/WHEEL" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3-1.24.1.dist-info/RECORD" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3-1.24.1.dist-info/METADATA" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3-1.24.1.dist-info/INSTALLER" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3-1.24.1.dist-info/LICENSE.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/urllib3-1.24.1.dist-info/top_level.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests-2.22.0.dist-info" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests-2.22.0.dist-info/WHEEL" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests-2.22.0.dist-info/RECORD" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests-2.22.0.dist-info/LICENSE" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests-2.22.0.dist-info/METADATA" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests-2.22.0.dist-info/INSTALLER" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/requests-2.22.0.dist-info/top_level.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium-3.141.0.dist-info" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium-3.141.0.dist-info/WHEEL" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium-3.141.0.dist-info/RECORD" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium-3.141.0.dist-info/LICENSE" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium-3.141.0.dist-info/METADATA" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium-3.141.0.dist-info/INSTALLER" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/selenium-3.141.0.dist-info/top_level.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi-2019.9.11.dist-info" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi-2019.9.11.dist-info/WHEEL" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi-2019.9.11.dist-info/RECORD" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi-2019.9.11.dist-info/METADATA" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi-2019.9.11.dist-info/INSTALLER" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi-2019.9.11.dist-info/metadata.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi-2019.9.11.dist-info/top_level.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/certifi-2019.9.11.dist-info/DESCRIPTION.rst" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode">
+          <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/EGG-INFO" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/EGG-INFO/PKG-INFO" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/EGG-INFO/zip-safe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/EGG-INFO/SOURCES.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/EGG-INFO/requires.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/EGG-INFO/top_level.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/EGG-INFO/entry_points.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/EGG-INFO/dependency_links.txt" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/extern" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/extern/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/cli.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/test.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/alias.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/sdist.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/rotate.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/setopt.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/upload.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/develop.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/build_py.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/egg_info.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/register.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/saveopts.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/bdist_egg.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/bdist_rpm.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/build_ext.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/py36compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/install_lib.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/upload_docs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/easy_install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/bdist_wininst.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/install_scripts.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/install_egg_info.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/command/launcher manifest.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/dist.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/glob.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/gui.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/msvc.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/launch.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/monkey.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/cli-32.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/cli-64.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/depends.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/gui-32.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/gui-64.exe" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/sandbox.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/script.tmpl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/extension.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/lib2to3_ex.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/namespaces.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/py26compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/py27compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/py31compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/site-patch.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/ssl_support.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/archive_util.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/package_index.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/unicode_utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/script (dev).tmpl" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/setuptools/windows_support.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/extern" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/extern/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/six.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging/utils.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging/_compat.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging/markers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging/version.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging/__about__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging/specifiers.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging/_structures.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/packaging/requirements.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/appdirs.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/_vendor/pyparsing.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/pkg_resources/__init__.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="jar://C:/pythonProjects/venv/Lib/site-packages/setuptools-28.8.0-py3.6.egg!/easy_install.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="tsetLogin.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/emp/testLogin/tsetLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="97" column="49" lean-forward="true" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+            <state relative-caret-position="75">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding>
+                <element signature="e#23#48#0" expanded="true" />
                 <element signature="e#128#569#0" />
-                <element signature="e#602#1322#0" />
-                <element signature="e#1248#1779#0" />
-                <element signature="e#1823#3218#0" />
-                <element signature="e#1853#2102#0" />
-                <element signature="e#3292#3541#0" />
-                <element signature="e#3595#3673#0" />
               </folding>
             </state>
           </provider>
@@ -74,11 +807,15 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Bea</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
     <dirStrings>
       <dir>C:\eHr_SaasEmp</dir>
+      <dir>C:\pythonProjects\venv\Lib\site-packages</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -146,17 +883,6 @@
             <path>
               <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (pythonProjects) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (pythonProjects) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -348,7 +1074,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572419176353</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1572491157384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572491157384</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -402,7 +1135,7 @@
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32780847" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633253" weight="0.67403316" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.3296501" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24775876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25264874" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -423,7 +1156,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932525" weight="0.5395948" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24775876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25264874" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24938875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32780847" />
@@ -625,14 +1358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-57">
           <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="e#23#48#0" expanded="true" />
-            <element signature="e#165#642#0" />
-            <element signature="e#676#775#0" />
-            <element signature="e#808#1338#0" />
-            <element signature="e#1372#1911#0" />
-            <element signature="e#2135#2346#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,16 +1370,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/emp/testLogin/tsetLogin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="97" column="49" lean-forward="true" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+        <state relative-caret-position="75">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding>
+            <element signature="e#23#48#0" expanded="true" />
             <element signature="e#128#569#0" />
-            <element signature="e#602#1322#0" />
-            <element signature="e#1248#1779#0" />
-            <element signature="e#1823#3218#0" />
-            <element signature="e#1853#2102#0" />
-            <element signature="e#3292#3541#0" />
-            <element signature="e#3595#3673#0" />
           </folding>
         </state>
       </provider>

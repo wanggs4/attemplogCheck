@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 import requests,json,time
 import unittest
+from
 
 class login(unittest.TestCase):
 
@@ -110,3 +111,8 @@ class login(unittest.TestCase):
 
 if __name__ == '__main__':
         unittest.main()
+        result = BeautifulReport(suite)
+        # filename -> 测试报告名称, 如果不指定默认文件名为report.html
+        # description -> 测试报告用例名称展示
+        # log_path='.' -> log文件写入路径
+        result.report(filename="测试报告", description="测试deafult报告", log_path='report')
