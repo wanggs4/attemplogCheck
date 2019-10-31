@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 import requests,json,time
 import unittest
-from
+from BeautifulReport import BeautifulReport
 
 class login(unittest.TestCase):
 
