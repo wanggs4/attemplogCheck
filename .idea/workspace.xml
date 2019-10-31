@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aacdce9-4950-4646-93db-1b752f03a5b1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/emp_login/loginmain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emp/testLogin/tsetLogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/emp/testLogin/tsetLogin.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,54 +13,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/untitled$attemplogCheck.coverage" NAME="attemplogCheck Coverage Results" MODIFIED="1571974864673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/untitled$attEmplogStartcheck.coverage" NAME="attEmplogStartcheck Coverage Results" MODIFIED="1558338771024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck.coverage" NAME="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck Coverage Results" MODIFIED="1572418346700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
-    <SUITE FILE_PATH="coverage/untitled$HRtest.coverage" NAME="HRtest Coverage Results" MODIFIED="1564048500301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Appium" />
     <SUITE FILE_PATH="coverage/untitled$ctgpayroll_Login.coverage" NAME="ctgpayroll_Login Coverage Results" MODIFIED="1571972519957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/login" />
     <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_ctgpayrollLogin_Testlogin.coverage" NAME="Unittests for ctgpayrollLogin.Testlogin Coverage Results" MODIFIED="1572416529697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
+    <SUITE FILE_PATH="coverage/untitled$attemplogOutsidecheck.coverage" NAME="attemplogOutsidecheck Coverage Results" MODIFIED="1558338458529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$attEmplog.coverage" NAME="attEmplog Coverage Results" MODIFIED="1558336580433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$attemplogEndcheck.coverage" NAME="attemplogEndcheck Coverage Results" MODIFIED="1558338607327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_in_ctgpayrollLogin_py.coverage" NAME="Unittests in ctgpayrollLogin.py Coverage Results" MODIFIED="1572485200128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_for_emp_login_MyTestSuite_test_login.coverage" NAME="Unittests for emp_login.MyTestSuite.test_login Coverage Results" MODIFIED="1571968999359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp_login" />
+    <SUITE FILE_PATH="coverage/untitled$testCheck.coverage" NAME="testCheck Coverage Results" MODIFIED="1558521605357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/untitled$Unittests_in_emp_login_py.coverage" NAME="Unittests in emp_login.py Coverage Results" MODIFIED="1571968820628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp_login" />
+    <SUITE FILE_PATH="coverage/untitled$attemplogCheck.coverage" NAME="attemplogCheck Coverage Results" MODIFIED="1571974864673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/untitled$HRtest.coverage" NAME="HRtest Coverage Results" MODIFIED="1564048500301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Appium" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_tsetLogin_login_test_login_token.coverage" NAME="Unittests for tsetLogin.login.test_login_token Coverage Results" MODIFIED="1572485063542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
     <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_ctgpayrollLogin_login.coverage" NAME="Unittests for ctgpayrollLogin.login Coverage Results" MODIFIED="1572415554227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
     <SUITE FILE_PATH="coverage/untitled$attemplog1.coverage" NAME="attemplog1 Coverage Results" MODIFIED="1558337972944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1558342920459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
     <SUITE FILE_PATH="coverage/untitled$eHRAppTest.coverage" NAME="eHRAppTest Coverage Results" MODIFIED="1564049367190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
-    <SUITE FILE_PATH="coverage/untitled$attemplogOutsidecheck.coverage" NAME="attemplogOutsidecheck Coverage Results" MODIFIED="1558338458529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1571967624630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
-    <SUITE FILE_PATH="coverage/untitled$attEmplog.coverage" NAME="attEmplog Coverage Results" MODIFIED="1558336580433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$attemplogEndcheck.coverage" NAME="attemplogEndcheck Coverage Results" MODIFIED="1558338607327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_in_ctgpayrollLogin_py.coverage" NAME="Unittests in ctgpayrollLogin.py Coverage Results" MODIFIED="1572419102480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
-    <SUITE FILE_PATH="coverage/untitled$Unittests_for_emp_login_MyTestSuite_test_login.coverage" NAME="Unittests for emp_login.MyTestSuite.test_login Coverage Results" MODIFIED="1571968999359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp_login" />
-    <SUITE FILE_PATH="coverage/untitled$testCheck.coverage" NAME="testCheck Coverage Results" MODIFIED="1558521605357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_in_tsetLogin_py.coverage" NAME="Unittests in tsetLogin.py Coverage Results" MODIFIED="1572484724685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_tsetLogin_login_test_loginCheck_01.coverage" NAME="Unittests for tsetLogin.login.test_loginCheck_01 Coverage Results" MODIFIED="1572486192054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
     <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_ctgpayrollLogin_login_test_loginCheck_01.coverage" NAME="Unittests for ctgpayrollLogin.login.test_loginCheck_01 Coverage Results" MODIFIED="1572414899589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_tsetLogin_login.coverage" NAME="Unittests for tsetLogin.login Coverage Results" MODIFIED="1572487913024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
     <SUITE FILE_PATH="coverage/untitled$tsetLogin.coverage" NAME="tsetLogin Coverage Results" MODIFIED="1571971870529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/login" />
-    <SUITE FILE_PATH="coverage/untitled$Unittests_in_emp_login_py.coverage" NAME="Unittests in emp_login.py Coverage Results" MODIFIED="1571968820628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp_login" />
     <SUITE FILE_PATH="coverage/untitled$HRtest__1_.coverage" NAME="HRtest (1) Coverage Results" MODIFIED="1564049232795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/App" />
+    <SUITE FILE_PATH="coverage/eHr_SaasEmp$Unittests_for_tsetLogin_login_test_02_loginCheck.coverage" NAME="Unittests for tsetLogin.login.test_02_loginCheck Coverage Results" MODIFIED="1572488605889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emp/testLogin" />
     <SUITE FILE_PATH="coverage/untitled$repairCheck.coverage" NAME="repairCheck Coverage Results" MODIFIED="1558403273200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="eHr_SaasEmp" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ctgpayrollLogin.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py">
+      <file leaf-file-name="tsetLogin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/emp/testLogin/tsetLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="13" column="125" lean-forward="true" selection-start-line="13" selection-start-column="125" selection-end-line="13" selection-end-column="125" />
+            <state relative-caret-position="166">
+              <caret line="97" column="49" lean-forward="true" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
               <folding>
-                <element signature="e#23#48#0" expanded="true" />
-                <element signature="e#164#641#0" />
-                <element signature="e#675#774#0" />
-                <element signature="e#807#1337#0" />
-                <element signature="e#1371#1910#0" />
-                <element signature="e#1954#2456#0" />
-                <element signature="e#2499#3870#0" />
+                <element signature="e#128#569#0" />
+                <element signature="e#602#1322#0" />
+                <element signature="e#1248#1779#0" />
+                <element signature="e#1823#3218#0" />
+                <element signature="e#1853#2102#0" />
+                <element signature="e#3292#3541#0" />
+                <element signature="e#3595#3673#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loginmain.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/emp_login/loginmain.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -116,6 +111,7 @@
         <option value="$PROJECT_DIR$/emp/testLogin/loginmain.py" />
         <option value="$PROJECT_DIR$/emp_login/loginmain.py" />
         <option value="$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py" />
+        <option value="$PROJECT_DIR$/emp/testLogin/tsetLogin.py" />
       </list>
     </option>
   </component>
@@ -140,7 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,28 +145,24 @@
             </path>
             <path>
               <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eHr_SaasEmp" type="462c0819:PsiDirectoryNode" />
-              <item name="emp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eHr_SaasEmp" type="462c0819:PsiDirectoryNode" />
-              <item name="emp" type="462c0819:PsiDirectoryNode" />
-              <item name="testLogin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eHr_SaasEmp" type="462c0819:PsiDirectoryNode" />
-              <item name="emp_login" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (pythonProjects) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="eHr_SaasEmp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (pythonProjects) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,45 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in ctgpayrollLogin.py">
-    <configuration name="attemplogCheck" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/attemplogCheck.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="ctgpayroll_Login" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/login" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/login/ctgpayroll_Login.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests for tsetLogin.login.test_02_loginCheck">
     <configuration name="test1" type="PythonConfigurationType" factoryName="Python">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,7 +214,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests for ctgpayrollLogin.Testlogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for tsetLogin.login" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,10 +225,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;ctgpayrollLogin.Testlogin&quot;" />
+      <option name="_new_target" value="&quot;tsetLogin.login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for tsetLogin.login.test_02_loginCheck" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,7 +239,35 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;ctgpayrollLogin.Testlogin.test_2_loginCheck&quot;" />
+      <option name="_new_target" value="&quot;tsetLogin.login.test_02_loginCheck&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for tsetLogin.login.test_loginCheck_01" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emp/testLogin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tsetLogin.login.test_loginCheck_01&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for tsetLogin.login.test_login_token" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emp/testLogin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tsetLogin.login.test_login_token&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <configuration name="Unittests in ctgpayrollLogin.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -305,19 +286,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.test1" />
-      <item itemvalue="Python.ctgpayroll_Login" />
-      <item itemvalue="Python.attemplogCheck" />
       <item itemvalue="Python tests.Unittests in ctgpayrollLogin.py" />
-      <item itemvalue="Python tests.Unittests for ctgpayrollLogin.Testlogin" />
-      <item itemvalue="Python tests.Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" />
+      <item itemvalue="Python tests.Unittests for tsetLogin.login.test_loginCheck_01" />
+      <item itemvalue="Python tests.Unittests for tsetLogin.login.test_login_token" />
+      <item itemvalue="Python tests.Unittests for tsetLogin.login.test_02_loginCheck" />
+      <item itemvalue="Python tests.Unittests for tsetLogin.login" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for tsetLogin.login.test_02_loginCheck" />
+        <item itemvalue="Python tests.Unittests for tsetLogin.login" />
+        <item itemvalue="Python tests.Unittests for tsetLogin.login.test_loginCheck_01" />
         <item itemvalue="Python tests.Unittests in ctgpayrollLogin.py" />
-        <item itemvalue="Python tests.Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" />
-        <item itemvalue="Python tests.Unittests for ctgpayrollLogin.Testlogin" />
-        <item itemvalue="Python.attemplogCheck" />
-        <item itemvalue="Python.ctgpayroll_Login" />
+        <item itemvalue="Python tests.Unittests for tsetLogin.login.test_login_token" />
       </list>
     </recent_temporary>
   </component>
@@ -360,39 +341,46 @@
       <option name="project" value="LOCAL" />
       <updated>1571972615680</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1572419176353</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572419176353</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_ctgpayrollLogin_login - 2019.10.30 at 14h 05m 55s.xml">
-      <configuration name="Unittests for ctgpayrollLogin.login" configurationId="tests" />
+    <history-entry file="Unittests_in_tsetLogin_py - 2019.10.31 at 09h 18m 45s.xml">
+      <configuration name="Unittests in tsetLogin.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ctgpayrollLogin_py - 2019.10.30 at 14h 09m 02s.xml">
+    <history-entry file="Unittests_for_tsetLogin_login_test_loginCheck_01 - 2019.10.31 at 09h 23m 51s.xml">
+      <configuration name="Unittests for tsetLogin.login.test_loginCheck_01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tsetLogin_login_test_login_token - 2019.10.31 at 09h 24m 12s.xml">
+      <configuration name="Unittests for tsetLogin.login.test_login_token" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_tsetLogin_login_test_login_token - 2019.10.31 at 09h 24m 26s.xml">
+      <configuration name="Unittests for tsetLogin.login.test_login_token" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ctgpayrollLogin_py - 2019.10.31 at 09h 26m 42s.xml">
       <configuration name="Unittests in ctgpayrollLogin.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ctgpayrollLogin_py - 2019.10.30 at 14h 16m 36s.xml">
-      <configuration name="Unittests in ctgpayrollLogin.py" configurationId="tests" />
+    <history-entry file="Unittests_for_tsetLogin_login_test_loginCheck_01 - 2019.10.31 at 09h 43m 26s.xml">
+      <configuration name="Unittests for tsetLogin.login.test_loginCheck_01" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ctgpayrollLogin_py - 2019.10.30 at 14h 17m 24s.xml">
-      <configuration name="Unittests in ctgpayrollLogin.py" configurationId="tests" />
+    <history-entry file="Unittests_for_tsetLogin_login_test_02_loginCheck - 2019.10.31 at 10h 05m 44s.xml">
+      <configuration name="Unittests for tsetLogin.login.test_02_loginCheck" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin - 2019.10.30 at 14h 22m 10s.xml">
-      <configuration name="Unittests for ctgpayrollLogin.Testlogin" configurationId="tests" />
+    <history-entry file="Unittests_for_tsetLogin_login - 2019.10.31 at 10h 10m 31s.xml">
+      <configuration name="Unittests for tsetLogin.login" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck - 2019.10.30 at 14h 48m 57s.xml">
-      <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" configurationId="tests" />
+    <history-entry file="Unittests_for_tsetLogin_login - 2019.10.31 at 10h 11m 58s.xml">
+      <configuration name="Unittests for tsetLogin.login" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck - 2019.10.30 at 14h 49m 34s.xml">
-      <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck - 2019.10.30 at 14h 50m 41s.xml">
-      <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_ctgpayrollLogin_Testlogin_test_2_loginCheck - 2019.10.30 at 14h 52m 29s.xml">
-      <configuration name="Unittests for ctgpayrollLogin.Testlogin.test_2_loginCheck" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_ctgpayrollLogin_py - 2019.10.30 at 15h 05m 03s.xml">
-      <configuration name="Unittests in ctgpayrollLogin.py" configurationId="tests" />
+    <history-entry file="Unittests_for_tsetLogin_login_test_02_loginCheck - 2019.10.31 at 10h 23m 29s.xml">
+      <configuration name="Unittests for tsetLogin.login.test_02_loginCheck" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -406,21 +394,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32896653" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32780847" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5036675" side_tool="true" weight="0.3020258" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932525" weight="0.5395948" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32896653" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633253" weight="0.8581952" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24286878" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32780847" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633253" weight="0.67403316" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3296501" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24775876" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24938875" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32925835" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865046" weight="0.46224678" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,30 +416,29 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24286878" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932525" weight="0.5395948" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24775876" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24938875" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32896653" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49865046" weight="0.32780847" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49633253" visible="true" weight="0.8581952" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633253" weight="0.67403316" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32780847" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49865046" weight="0.32896653" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865046" weight="0.46224678" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3296501" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5036675" side_tool="true" weight="0.3020258" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49865046" weight="0.46224678" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32925835" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +477,8 @@
     <MESSAGE value="ooo" />
     <MESSAGE value="delete test1" />
     <MESSAGE value="增加生产环境用户登录和打卡接口" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加生产环境用户登录和打卡接口" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -504,7 +492,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="94" />
+      <option name="time" value="101" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="tests">
@@ -513,13 +501,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/emp_login/loginmain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/attemplogCheck.py" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py" />
     <entry file="file://$PROJECT_DIR$/venv/login/tsetLogin.py" />
@@ -633,13 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="446" column="8" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/emp_login/loginmain.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -649,16 +623,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/emp/testLogin/ctgpayrollLogin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" column="125" lean-forward="true" selection-start-line="13" selection-start-column="125" selection-end-line="13" selection-end-column="125" />
+        <state relative-caret-position="-57">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
             <element signature="e#23#48#0" expanded="true" />
-            <element signature="e#164#641#0" />
-            <element signature="e#675#774#0" />
-            <element signature="e#807#1337#0" />
-            <element signature="e#1371#1910#0" />
-            <element signature="e#1954#2456#0" />
-            <element signature="e#2499#3870#0" />
+            <element signature="e#165#642#0" />
+            <element signature="e#676#775#0" />
+            <element signature="e#808#1338#0" />
+            <element signature="e#1372#1911#0" />
+            <element signature="e#2135#2346#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="669" selection-start-line="669" selection-end-line="669" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emp/testLogin/tsetLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="97" column="49" lean-forward="true" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+          <folding>
+            <element signature="e#128#569#0" />
+            <element signature="e#602#1322#0" />
+            <element signature="e#1248#1779#0" />
+            <element signature="e#1823#3218#0" />
+            <element signature="e#1853#2102#0" />
+            <element signature="e#3292#3541#0" />
+            <element signature="e#3595#3673#0" />
           </folding>
         </state>
       </provider>
